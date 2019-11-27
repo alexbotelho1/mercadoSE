@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/body.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/conexao.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/contato_body.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/footer.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/header.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/index.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/index_body.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/js/example.js" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/js/examples.js" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/js/mask.js" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/menu.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/produto.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/produto_body.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/registro_body.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/script.css" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/sobre_body.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/teste.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/teste2.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/venda.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/venda_body.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/venda_body2.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/venda_grid.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/venda_grid_compra.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/venda_grid_produto.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/venda_prateleira.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/venda_sacola.php" charset="ISO-8859-1" />
+  </component>
+</project>
